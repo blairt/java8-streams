@@ -75,56 +75,73 @@ public class Winner {
     }
 
     public int getYear() {
+
         return year;
     }
     public void setYear(int year) {
         this.year = year;
     }
+
     public String getNationality() {
+
         return nationality;
     }
     public void setNationality(String nationality) {
+
         this.nationality = nationality;
     }
     public String getName() {
+
         return name;
     }
     public void setName(String name) {
+
         this.name = name;
     }
     public String getTeam() {
         return team;
     }
     public void setTeam(String team) {
+
         this.team = team;
     }
     public int getLengthKm() {
+
         return lengthKm;
     }
     public void setLengthKm(int lengthKm) {
+
         this.lengthKm = lengthKm;
     }
     public Duration getWinningTime() {
+
         return winningTime;
     }
     public void setWinningTime(Duration winningTime) {
+
         this.winningTime = winningTime;
     }
 
     public int getStageWins() {
+
         return stageWins;
     }
     public void setStageWins(int stageWins) {
+
         this.stageWins = stageWins;
     }
     public int getDaysInYellow() {
+
         return daysInYellow;
     }
     public void setDaysInYellow(int daysInYellow) {
+
         this.daysInYellow = daysInYellow;
     }
+
     @Override
     public String toString() {
+
         return name;
     }
 
