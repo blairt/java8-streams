@@ -17,6 +17,10 @@ _The final point is that streams can only be traversed once_
 
 Data for this cookbook was taken from Wikipedia: https://en.wikipedia.org/wiki/List_of_Tour_de_France_general_classification_winners
 
+* This code have been compile and runs with:
+    * Java 8.172 64k
+    * OpenJDK 8 - Windows 64
+    
 ## More Information
 
 Java 8: Lambdas - 
