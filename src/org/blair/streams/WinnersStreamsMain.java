@@ -15,7 +15,7 @@ The Stream operations are either –
 
     The final point is that streams can only be traversed once
 
-    NOTE: The ideas for this came from Martin Farrell
+    NOTE: The ideas for this came from a blog by Martin Farrell.
  */
 public class WinnersStreamsMain {
 
