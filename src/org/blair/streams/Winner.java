@@ -57,7 +57,6 @@ public class Winner {
             new Winner(1996,"Denmark","Bjarne Riis","Team Telekom",3765,Duration.parse("PT95H57M16S"),13),
             new Winner(1997,"Germany","Jan Ullrich","Team Telekom",3950,Duration.parse("PT100H30M35S"),12),
             new Winner(1998,"Ialy","Marco Pantani","Mercatone Uno–Bianchi",3875,Duration.parse("PT92H49M46S"),7),
-
             new Winner(2006, "Spain", "Óscar Pereiro", "Caisse d'Epargne–Illes Balears", 3657, Duration.parse("PT89H40M27S"), 8),
             new Winner(2007, "Spain", "Alberto Contador", "Discovery Channel", 3570, Duration.parse("PT91H00M26S"), 4),
             new Winner(2008, "Spain", "Carlos Sastre", "Team CSC", 3559, Duration.parse("PT87H52M52S"), 5),

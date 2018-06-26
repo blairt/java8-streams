@@ -14,6 +14,8 @@ The Stream operations are either –
     2) Terminal – produce result
 
     The final point is that streams can only be traversed once
+
+    NOTE: The ideas for this came from Martin Farrell
  */
 public class WinnersStreamsMain {
 
