@@ -20,6 +20,7 @@ Data for this cookbook was taken from Wikipedia: https://en.wikipedia.org/wiki/L
 * This code have been compiled and run with:
     * Java 8.172 64k
     * OpenJDK 8 - Windows 64
+    * OpenJDK 8 - 1.8.0_172 (zulu 8.30.0.1-macos)
     
 ## More Information
 
